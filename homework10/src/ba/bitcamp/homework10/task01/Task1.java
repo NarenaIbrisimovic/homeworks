@@ -1,4 +1,4 @@
-package ba.bitcamp.homework10.task1;
+package ba.bitcamp.homework10.task01;
 
 import java.util.Arrays;
 
