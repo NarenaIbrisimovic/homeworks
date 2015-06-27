@@ -1,4 +1,4 @@
-package ba.bitcamp.homework10.task6;
+package ba.bitcamp.homework10.task06;
 import java.util.Scanner;
 public class Task6 {
 
