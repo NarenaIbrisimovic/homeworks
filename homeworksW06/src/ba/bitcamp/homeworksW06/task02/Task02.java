@@ -1,4 +1,4 @@
-package ba.bitcamp.homeworkW06.task02;
+package ba.bitcamp.homeworksW06.task02;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;

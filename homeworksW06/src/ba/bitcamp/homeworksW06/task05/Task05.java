@@ -1,4 +1,4 @@
-package ba.bitcamp.homeworkW06.task05;
+package ba.bitcamp.homeworksW06.task05;
 
 public class Task05 {
 	
