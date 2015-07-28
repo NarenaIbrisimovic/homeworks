@@ -18,7 +18,7 @@ public class DammyXO extends JPanel {
 	int counter = 0;
 
 	public DammyXO() {
-		setLayout(new GridLayout(3, 3));
+		setLayout(new GridLayout(9, 1));
 		initializeButtons();
 	}
 	
