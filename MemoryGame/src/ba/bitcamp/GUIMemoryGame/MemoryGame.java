@@ -137,6 +137,7 @@ public class MemoryGame extends JFrame {
 					buttons[i].setText(Integer.toString(numbers[i]));
 					if (tmp == null) {
 						tmp = buttons[i];
+						// test commentar
 						tmp.setEnabled(false);
 					} else {
 						a = tmp.getText();
