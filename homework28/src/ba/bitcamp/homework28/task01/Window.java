@@ -68,8 +68,7 @@ public class Window {
 			DateFormat dateFormat = new SimpleDateFormat("dd.MM.yyyy");
 			Date date = new Date();
 
-			String insertQuery = "INSERT INTO complaint VALUES(null,'"
-					+ dateFormat.format(date) + "','" + area.getText() + "','"
+			String insertQuery = "INSERT INTO complaint VALUES(null,'"+ dateFormat.format(date) + "','" + area.getText() + "','"
 					+ timeFormat.format(date) + "')";
 			statement.executeUpdate(insertQuery);
 			area.setText("");
