@@ -45,7 +45,7 @@ public class Main {
 	}
 	/*
 	 * Napisati metodu (u klasi gdje je main metoda) koja prima, kao parametre, jedan tim i jednu godinu. 
-	 * Metoda vraća koliko ima igrača u datom timu toga godišta.
+	 * Metoda vraća koliko ima igrača u datom timu tog godišta.
 	 *
 	 */
 	
